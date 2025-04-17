@@ -8,7 +8,7 @@ solicitar impressão"""
 
 print("Hello World")
 
-The Zen of Python, por Tim Peters
+"""The Zen of Python, por Tim Peters
 
 
 
@@ -38,7 +38,7 @@ Diante da ambiguidade, recuse a tentação de adivinhar.
 
 Deve haver um -- e preferencialmente só um -- modo óbvio para fazer algo.
 
-Embora esse modo possa não ser óbvio à primeira vista a menos que você seja holandês.
+Embora esse modo possa não ser óbvio à primeira vista a menos que você seja.
 
 Agora é melhor que nunca.
 
@@ -48,5 +48,4 @@ Se a implementação é difícil de explicar, é uma má idéia.
 
 Se a implementação é fácil de explicar, pode ser uma boa idéia.
 
-Namespaces são uma grande idéia -- vamos fazer mais dessas!
-
+Namespaces são uma grande idéia -- vamos fazer mais dessas!"""
